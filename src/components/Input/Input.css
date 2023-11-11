@@ -1,0 +1,22 @@
+.text-field{
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-field span{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text-field input{
+    background-color: #fff;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.6);
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 24px;
+}

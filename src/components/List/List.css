@@ -1,0 +1,15 @@
+.list select{
+    background-color: #fff;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.6);
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 24px;
+}
+
+.list span{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
